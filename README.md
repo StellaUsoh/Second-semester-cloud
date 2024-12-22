@@ -14,4 +14,7 @@ After that, I tested the page by accessing the EC2 public IP address(http://54.1
 
 After which i created a repository and pushed the index.html file to Github.
 
+Technologies used includes; Amazon Web Services (AWS), Ubuntu, HTML/CSS, etc
+
+Below is a screenshot of the wedpage i deployed.
 <img width="937" alt="Screenshot 2024-12-22 at 03 18 09" src="https://github.com/user-attachments/assets/a8d76555-1d25-4c45-a15a-98c6569bd406" />
